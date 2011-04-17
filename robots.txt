@@ -1,5 +1,23 @@
-# www.robotstxt.org/
-# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+# for 'real' WEB crawlers
+User-agent: Googlebot
+User-agent: *Google*
+User-agent: AdsBot-Google
+User-agent: Feedfetcher-Google
+User-agent: Mediapartners-Google*
+User-agent: Googlebot-Image
+User-agent: Google-AdSense*
+User-agent: Slurp
+User-agent: msnbot
+User-agent: Yahoo-MMCrawler
+User-agent: Teoma
+User-agent: Feedburner
+User-agent: ScoutJet
+User-agent: ia_archiver
+
+Disallow: /etc/
 
 User-agent: *
+Crawl-delay: 4
+Disallow: /etc/
+
 
