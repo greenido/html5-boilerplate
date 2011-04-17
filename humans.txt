@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
+ Pro Snowboarder: Ido Green
+  Site: greenido.wordpress.com
+  Twitter: greenido
+  Location: North Star A Tahoe
 
 /* THANKS */
   Names (& URL): 
